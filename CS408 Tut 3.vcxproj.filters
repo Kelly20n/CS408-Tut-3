@@ -119,6 +119,9 @@
     <ClCompile Include="Vector3.cpp">
       <Filter>ObjLibrary</Filter>
     </ClCompile>
+    <ClCompile Include="Square.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="ObjLibrary-development-log.txt">

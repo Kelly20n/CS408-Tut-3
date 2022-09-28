@@ -169,6 +169,7 @@
     <ClCompile Include="ObjStringParsing.cpp" />
     <ClCompile Include="Sleep.cpp" />
     <ClCompile Include="SpriteFont.cpp" />
+    <ClCompile Include="Square.cpp" />
     <ClCompile Include="Texture.cpp" />
     <ClCompile Include="TextureBmp.cpp" />
     <ClCompile Include="TextureManager.cpp" />
