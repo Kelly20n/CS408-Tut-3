@@ -1,0 +1,10 @@
+I did two creative features, using my knowledge I learned along the way.
+The first one was changing the background color using the random number generator
+to randomize the background color whenever the user hit c, this was easily done
+using the update function to continually update the background of the values were
+changed. The second feature I wanted to replicate fireworks going off on the screen
+I made it so whenever the user pressed q the emitter would teleport to a randomized
+spot on the screen and start spewing particles in all directions using the vector2
+function the color was also randomized for the fireworks as well, I also built in
+some ways to return to a normal non firework particle and to return to a default
+black screen.
