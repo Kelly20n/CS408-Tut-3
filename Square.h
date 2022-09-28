@@ -1,4 +1,5 @@
-
+// In this file the comments are sparse there is little need to explain this, the default constructor is called using the default values, the public member functions are prototyped here, the init function
+// being the most notable, all the private member variables to be used in all the functions are declared as well.
 #include "Vector2.h"
 
 
@@ -21,7 +22,6 @@ public:
 	
 private:
 	// declare your private member functions here
-	// float random0to1();
 	
 	// declare your member variables here
 	Vector2 pos;
